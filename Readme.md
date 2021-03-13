@@ -1,6 +1,6 @@
 # Haskell neural network modules
-*Author:* Marek Sedláček
-*Contact:* mr.mareksedlacek@gmail.com
+*Author:* Marek Sedláček  
+*Contact:* mr.mareksedlacek@gmail.com  
 
 This a little project to demonstrate a simple neural network made in haskell with just native libraries.  
 Current configuration is setup to detect that the expected output should be the 1st value in passed in list.  
